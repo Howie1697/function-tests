@@ -82,14 +82,6 @@ function onlyEvens(arr) {
 //   rating: RATING
 // }
 // The name of the business and the rating will be the same name and rating
-
-
-
-// This is definitely an area I need to work on. I solved the first 2 yelp problems
-// but wasn't ablt to figure out how to do it using higher order functions.
-// Wasn't able to complete the last 2. Got stuck on the aroundMe function and
-// ran out of time to do the last one.
-
 function businessNamesAndRatings(result) {
 
 }
